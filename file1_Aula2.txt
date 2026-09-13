@@ -1,2 +1,3 @@
 Ficheiro local
 Alteração feita para fazer push
+Alteração feita no ramo1
