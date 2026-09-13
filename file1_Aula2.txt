@@ -1,4 +1,4 @@
 Ficheiro local
 Alteração feita para fazer push
-Alteração feita no ramo1
+Alteração feita no servidor para criar colisão
 Nova alteração no ramo 1
